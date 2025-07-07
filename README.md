@@ -15,7 +15,7 @@ This project involves the simulation of a computer network using the Network Sim
 
 The simulation implements a hub-and-spoke network topology consisting of 9 nodes: 5 workstations (A, B, C, D, E) and 4 routers (R0, R1, R2, R3). Router R0 acts as the central hub connecting the other three routers.
 
-![Network Topology](https://i.imgur.com/gY2Z2aH.png)
+![Network Topology](network_topology.png)
 
 ### Node Connections:
 * Workstation **A** is connected to Router **R1**.
